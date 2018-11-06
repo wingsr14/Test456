@@ -1,0 +1,5 @@
+C:\inetpub\wwwroot\GitTestApp\GitTestApp\bin\GitTestApp.dll
+C:\inetpub\wwwroot\GitTestApp\GitTestApp\bin\GitTestApp.pdb
+C:\inetpub\wwwroot\GitTestApp\GitTestApp\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\GitTestApp\GitTestApp\obj\Debug\GitTestApp.dll
+C:\inetpub\wwwroot\GitTestApp\GitTestApp\obj\Debug\GitTestApp.pdb
