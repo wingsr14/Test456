@@ -9,6 +9,7 @@ namespace GitTestApp
     {
         public Dumb()
         {
+            String s = "not that dumb";
         }
     }
 }
