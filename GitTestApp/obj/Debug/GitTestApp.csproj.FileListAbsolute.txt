@@ -3,3 +3,9 @@ C:\inetpub\wwwroot\GitTestApp\GitTestApp\bin\GitTestApp.pdb
 C:\inetpub\wwwroot\GitTestApp\GitTestApp\obj\Debug\ResolveAssemblyReference.cache
 C:\inetpub\wwwroot\GitTestApp\GitTestApp\obj\Debug\GitTestApp.dll
 C:\inetpub\wwwroot\GitTestApp\GitTestApp\obj\Debug\GitTestApp.pdb
+F:\git\Test456\GitTestApp\bin\GitTestApp.dll.config
+F:\git\Test456\GitTestApp\bin\GitTestApp.dll
+F:\git\Test456\GitTestApp\bin\GitTestApp.pdb
+F:\git\Test456\GitTestApp\obj\Debug\GitTestApp.csprojResolveAssemblyReference.cache
+F:\git\Test456\GitTestApp\obj\Debug\GitTestApp.dll
+F:\git\Test456\GitTestApp\obj\Debug\GitTestApp.pdb
