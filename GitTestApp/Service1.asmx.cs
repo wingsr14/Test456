@@ -20,7 +20,7 @@ namespace GitTestApp
         [WebMethod]
         public string HelloWorld()
         {
-			
+            Dumb d = new Dumb();
             return "Hello World For Real 2";
         }
     }
